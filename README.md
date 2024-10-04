@@ -66,8 +66,7 @@ Diretores que atuaram como atores em suas próprias produções:
  'Giancarlo Esposito' 'Errol Morris' 'Russell Crowe' 'Taika Waititi'
  'Chris Burkard' 'Alejandro Agresti' 'Huang Lei' 'Zach Braff'
  'Adrian Murray'
- # Explore o dataset e compartilhe um insight ou número que você considere
-interessante.
+ # Explore o dataset e compartilhe um insight ou número que você considere interessante.
 meu insight foi explorar o número de sérias lançadas todo ano
 Número de séries adicionadas por ano:
 Ano de lançamento
