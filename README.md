@@ -1,4 +1,4 @@
-# Respostar Para perguntas:
+# Respostas:
 # Quais colunas estão presentes no dataset?
 'show_id', 'type', 'title', 'director', 'cast', 'country', 'date_added', 'release_year', 'rating', 'duration', 'listed_in', 'description'
 # Quantos filmes estão disponíveis na Netflix?
@@ -67,7 +67,8 @@ Diretores que atuaram como atores em suas próprias produções:
  'Chris Burkard' 'Alejandro Agresti' 'Huang Lei' 'Zach Braff'
  'Adrian Murray'
  # Explore o dataset e compartilhe um insight ou número que você considere interessante.
-meu insight foi explorar o número de sérias lançadas todo ano.\n
+meu insight foi explorar o número de sérias lançadas todo ano.
+</br>
 Número de séries adicionadas por ano:
 Ano de lançamento
 1925:      1
